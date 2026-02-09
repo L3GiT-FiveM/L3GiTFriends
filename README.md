@@ -1,4 +1,4 @@
-# L3GiTFriends (Premium Friends UI)
+# L3GiTFriends (Premium Friends UI) [Escrowed]
 
 Premium friends system for FiveM (QBCore + ox_lib + oxmysql) with a modern NUI, notes, gifts, color customization, and Discord logging.
 
@@ -66,3 +66,4 @@ When multiple items are sent in one gift, they are combined into a single webhoo
 ## Support
 
 Contact the author for premium support or custom integrations.
+
