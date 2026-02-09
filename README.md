@@ -12,6 +12,8 @@ Premium friends system for FiveM (QBCore + ox_lib + oxmysql) with a modern NUI, 
 - SQL-backed friend relationships and gifts
 - Discord webhook logging for gift transfers (sender/recipient + item labels + amount)
 
+<img width="274" height="230" alt="image" src="https://github.com/user-attachments/assets/18f7f748-e29d-4851-a2cd-a6ef6b22a98c" />
+
 ## Requirements
 
 - QBCore
@@ -29,6 +31,8 @@ Premium friends system for FiveM (QBCore + ox_lib + oxmysql) with a modern NUI, 
 ```
 ensure L3GiTFriends
 ```
+
+<img width="575" height="361" alt="image" src="https://github.com/user-attachments/assets/cd12bf06-e059-45bb-a8b0-25725f2a1969" />
 
 4. Restart the server. The SQL tables are created automatically on first start.
 
@@ -50,6 +54,8 @@ Edit [config.lua](config.lua):
 - Select a friend to view details, notes, and gifts.
 - Send gifts from your inventory (multiple items are combined into a single webhook entry) and claim incoming gifts.
 
+<img width="539" height="362" alt="image" src="https://github.com/user-attachments/assets/1ccc38cc-062e-4a10-a2e4-cfb21aea2796" />
+
 ## Notes
 
 - Money and black_money are blocked from gifting.
@@ -65,5 +71,6 @@ When multiple items are sent in one gift, they are combined into a single webhoo
 ## Support
 
 Contact the author for premium support or custom integrations.
+
 
 
