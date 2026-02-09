@@ -32,9 +32,9 @@ Premium friends system for FiveM (QBCore + ox_lib + oxmysql) with a modern NUI, 
 ensure L3GiTFriends
 ```
 
-<img width="575" height="361" alt="image" src="https://github.com/user-attachments/assets/cd12bf06-e059-45bb-a8b0-25725f2a1969" />
-
 4. Restart the server. The SQL tables are created automatically on first start.
+
+<img width="575" height="361" alt="image" src="https://github.com/user-attachments/assets/cd12bf06-e059-45bb-a8b0-25725f2a1969" />
 
 ## Configuration
 
@@ -71,6 +71,7 @@ When multiple items are sent in one gift, they are combined into a single webhoo
 ## Support
 
 Contact the author for premium support or custom integrations.
+
 
 
 
